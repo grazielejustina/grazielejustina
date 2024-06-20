@@ -1,4 +1,4 @@
-# Bem vindos ao meu portfólio de projetos !
+# Bem vindos ao meu perfil do GitHub !
 
 Sou Analista de Dados com especialização em Marketing Digital e experiência em administração. Tenho experiência na análise de resultados e indicadores, além da criação de relatórios gerenciais e operacionais para suporte à tomada de decisão. Também possuo sólida experiência em vendas no e-commerce, liderança, trabalho em equipe, gestão de projetos e controle financeiro.
 
