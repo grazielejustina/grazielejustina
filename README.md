@@ -18,5 +18,5 @@ Sou dedicada, esforçada e determinada, com capacidade de aprender rapidamente. 
 ### Contatos:
 
 * WhatsApp: (14) 99722-6510
-* * Email: grazielejustina@hotmail.com
+* Email: grazielejustina@hotmail.com
 * Linkedin: [**Link**](https://www.linkedin.com/in/grazielejustina/)
