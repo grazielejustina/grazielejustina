@@ -7,11 +7,11 @@ Sou dedicado, esforçado e determinado, com rápida capacidade de aprendizado e 
 ---
 
 ## Habilidades:
-Linguagens de programação e consulta: SQL, Python.
-Bancos de dados: SQL (MySQL, PostgreSQL, SQL Server, Big Query).
-Visualização de dados: SQL, Power BI, Python.
-Conhecimentos de métodos: Metodologias Ágeis, Product Discovery, Prototipação, Data Driven, Storytelling, DataOps, Modelagem de dados.
-Expertise: Análise de Dados, Business Intelligence, Analytics, MySQL, SQL Server, PostgreSQL, Power BI, Figma, Visual Studio Code, PyCharm, Excel, Jupyter Anaconda, Databricks, GitHub, Metodologias Ágeis, Soft Skills, Storytelling, Data Driven, Produto Discovery, Prototipação, Modelagem de dados, Big Query e DataOps.
+* Linguagens de programação e consulta: SQL, Python.
+* Bancos de dados: SQL (MySQL, PostgreSQL, SQL Server, Big Query).
+* Visualização de dados: SQL, Power BI, Python.
+* Conhecimentos de métodos: Metodologias Ágeis, Product Discovery, Prototipação, Data Driven, Storytelling, DataOps, Modelagem de dados.
+* Expertise: Análise de Dados, Business Intelligence, Analytics, MySQL, SQL Server, PostgreSQL, Power BI, Figma, Visual Studio Code, PyCharm, Excel, Jupyter Anaconda, Databricks, GitHub, Metodologias Ágeis, Soft Skills, Storytelling, Data Driven, Produto Discovery, Prototipação, Modelagem de dados, Big Query e DataOps.
 
 ---
 
