@@ -1,3 +1,8 @@
+<h1 align="center">Graziele Aparecida de Godoy Justina</h1>
+<p align="center">
+  <img src="1718327358821.jpeg" >
+</p>
+
 # Bem vindos ao meu perfil do GitHub
 
 Sou uma Analista de Dados com especialização em Marketing Digital e experiência em administração. Tenho experiência na análise de resultados e indicadores, além da criação de relatórios gerenciais e operacionais para tomada de decisão. Minha experiência também inclui liderança em vendas, trabalho em equipe, gestão de projetos e planejamento.
