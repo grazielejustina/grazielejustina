@@ -1,6 +1,6 @@
 <h1 align="center">Graziele Aparecida de Godoy Justina</h1>
 <p align="center">
-  <img src="1718327358821.jpeg" >
+  <img src="Data Analytics.png" >
 </p>
 
 # Bem vindos ao meu perfil do GitHub
