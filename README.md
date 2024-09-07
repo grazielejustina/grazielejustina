@@ -5,18 +5,11 @@
 
 # Bem vindos ao meu perfil do GitHub
 
-Sou uma Analista de Dados com especialização em Marketing Digital e experiência em administração. Tenho experiência na análise de resultados e indicadores, além da criação de relatórios gerenciais e operacionais para tomada de decisão. Minha experiência também inclui liderança em vendas, trabalho em equipe, gestão de projetos e planejamento.
+Sou uma Analista de Dados Júnior com especialização em Marketing Digital e sólida experiência em administração. Tenho habilidades em planejamento estratégico, análise de resultados e indicadores, e criação de relatórios gerenciais e operacionais para suporte à tomada de decisões. Atuei em liderança de equipes e gestão de projetos, aplicando metodologias ágeis.
 
-Sou dedicado, esforçado e determinado, com rápida capacidade de aprendizado e em gerar resultados para as empresas. Minhas áreas de interesse são dados, negócios, planejamento e MIS.
+Possuo conhecimentos em técnicas de Data Driven e DataOps e habilidades em SQL, Power BI e Python, com foco na análise de dados. Sou proativa, dedicada e apaixonada por aprender novas tecnologias e métodos que aprimorem minhas habilidades técnicas e comportamentais.
 
----
-
-## Habilidades:
-* Linguagens de programação e consulta: SQL, Python.
-* Bancos de dados: SQL (MySQL, PostgreSQL, SQL Server, Big Query).
-* Visualização de dados: SQL, Power BI, Python.
-* Conhecimentos de métodos: Metodologias Ágeis, Product Discovery, Prototipação, Data Driven, Storytelling, DataOps, Modelagem de dados.
-* Expertise: Análise de Dados, Business Intelligence, Analytics, MySQL, SQL Server, PostgreSQL, Power BI, Figma, Visual Studio Code, PyCharm, Excel, Jupyter Anaconda, Databricks, GitHub, Metodologias Ágeis, Soft Skills, Storytelling, Data Driven, Produto Discovery, Prototipação, Modelagem de dados, Big Query e DataOps.
+Tenho interesse em áreas como dados, negócios, business intelligence e planejamento. Minha expertise abrange: Análise de Dados, Data Analytics, Analytics, SQL (SGBD: MySQL, SQL Server, PostgreSQL), Power BI, Google Looker Studio, Cognos Analytics, Figma, Excel, Python (Jupyter Anaconda, Visual Studio Code, PyCharm), Databricks, GitHub, Git, BigQuery, IBM Watson Studio e Google Analytics.
 
 ---
 
