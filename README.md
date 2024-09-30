@@ -5,11 +5,21 @@
 
 # Bem vindos ao meu perfil do GitHub
 
-Sou Analista de Dados Júnior com habilidades em planejamento estratégico, análise de resultados e indicadores, e criação de relatórios gerenciais e operacionais que facilitam a tomada de decisões. Com experiência em liderança de equipes e gestão de projetos, aplico metodologias ágeis para alcançar resultados eficientes. Tenho competências em Data Driven e DataOps, o que me permite transformar dados em insights valiosos para otimizar processos e estratégias empresariais.
+Sou uma Analista de Dados Júnior apaixonada por análises e por transformar dados em insights valiosos que geram valor para as empresas. Possuo experiência em planejamento estratégico, análise de desempenho e de indicadores, e na criação de relatórios gerenciais e operacionais, ajudando as organizações a tomarem decisões estratégicas e orientada por dados, impulsionando resultados para as empresas.
 
-Possuo habilidades em SQL, Power BI, Excel e Python, com foco na análise de dados e desenvolvimento de soluções orientadas para negócios. Tenho interesse em áreas relacionadas a dados, business intelligence e planejamento estratégico, onde posso aplicar meu conhecimento técnico e visão analítica.
+Tenho experiência em liderar equipes e gerenciar projetos, aplicando metodologias ágeis para garantir soluções assertivas e eficazes. Sou certificada como Analista de Dados pela IBM, e minhas habilidades em Data Driven e DataOps me capacitam a gerar insights que resultam em ações para melhorar o desempenho das empresas.
 
-Minha expertise abrange: SQL (MySQL, SQL Server, PostgreSQL), Banco de Dados, Modelagem de dados, Data Driven, DataOps, Storytelling, Product Discovery, Prototipação, Power BI, Google Looker Studio, Cognos Analytics, Figma, Excel, Python (Jupyter Anaconda, Visual Studio Code, PyCharm), Databricks, GitHub, Git, Big Query, Gamification, LGPD, ETL, Metodologias Ágeis, Mapeamento de Dados, OKR e KPI, Homologação, Documentação, IBM Watson Studio, IBM Cloud, IA generativa e Google Analytics.
+Possuo habilidades em SQL, Power BI, Excel e Python, com foco em desenvolver soluções de análise de dados voltadas para negócios, sempre com o objetivo de gerar valor as empresas. Tenho interesse em áreas como dados, business intelligence, negócios, e planejamento estratégico, onde aplico minha visão analítica e técnicas para resolver problemas empresariais.
+
+Minha expertise inclui:
+
+🚀 Soft skills
+
+- Capacidade analítica, Tomada de decisão, Conhecimento de negócio, Gestão de projetos, Comunicação, Resolução de problemas, Trabalho em equipe, Modelagem e Análise de Dados, Mapeamento de Dados, Prototipação, Data Driven, DataOps, Storytelling, Product Discovery, Metodologias Ágeis, OKR e KPI, Homologação, Criação de Dashboards, LGPD e Documentação.
+
+🛠️ Hard Skills:
+
+- Excel, SQL, Python, Power BI, Google Looker Studio, Cognos Analytics, Figma, Databricks, GitHub, Git, BigQuery, Google Sheets, Google Analytics, ETL, IA Generativa e IBM Cloud.
 
 ---
 
