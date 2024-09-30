@@ -21,6 +21,16 @@ Minha expertise inclui:
 
 - Excel, SQL, Python, Power BI, Google Looker Studio, Cognos Analytics, Figma, Databricks, GitHub, Git, BigQuery, Google Sheets, Google Analytics, ETL, IA Generativa e IBM Cloud.
 
+### Certificações e destaques
+
+* Certificada como Analista de Dados da IBM, pela instituição Coursera em 2024.
+
+<img src="1727634537920.jpeg" >
+
+* **Destaque**: Certificado de Destaque pelo 2º lugar em um Projeto de Sistema de Gerenciamento de Alunos, onde atuei como Tech Lead, com foco em liderança técnica, coordenação de projetos e desenvolvimento de soluções.
+
+<img src="1722210982426.jpeg" >
+
 ---
 
 ### Contatos:
