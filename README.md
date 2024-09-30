@@ -23,11 +23,11 @@ Minha expertise inclui:
 
 ### Certificações e destaques
 
-**Certificação Profissional**:Certificada como Analista de Dados da IBM, pela instituição Coursera em 2024.
+**Certificação Profissional**: Certificada como Analista de Dados da IBM, pela instituição Coursera em 2024.
 
 <img src="1727634537920.jpeg" >
 
-**Destaque**: Certificado de Destaque pelo 2º lugar em um Hackathon da Edtech Bichinhos da TI, onde atuei como Tech Lead, com foco em liderança técnica, coordenação de projetos e desenvolvimento de soluções.
+**Destaque**: Certificado de Destaque pelo 2º lugar no Hackathon da Edtech Bichinhos da TI, onde atuei como Tech Lead, com foco em liderança técnica, coordenação de projetos e desenvolvimento de soluções.
 
 <img src="1722210982426.jpeg" >
 
